@@ -34,14 +34,14 @@ The Initials of your names are:HG
 ```
 caesar.c : caesar.c caesar cipher's any text
 ```javascript
-~/workspace/pset2/ (master) $ ./caesar 13
+~/workspace/pset2/ (master) $ ./caesar 5
 Plain text: Make A difference in this world
 ciphertext: Rfpj F inkkjwjshj ns ymnx btwqi
 ```
 
 vigenere.c : this program applies vigenere cipher over a text
 ```javascript
-~/workspace/pset2/ (master) $ ./vigenere bacon
+~/workspace/pset2/ (master) $ ./vigenere funny
 Plain text: This world has no place for racist
 ciphertext: Ybvf bieyb bnf si cjfwr dtl eyhcfg
 ```
